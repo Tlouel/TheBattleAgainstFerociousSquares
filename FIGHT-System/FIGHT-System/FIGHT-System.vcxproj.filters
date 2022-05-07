@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Header">
+      <UniqueIdentifier>{32f562a2-d5a0-474d-a0d8-fe5b7e179982}</UniqueIdentifier>
+    </Filter>
+    <Filter Include=".CPP">
+      <UniqueIdentifier>{122d48b9-a563-41ba-916a-089c1099586b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Camera.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyController.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Entity.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="EntityShoot.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="EntityWalk.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="InterfaceUI.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Map.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerController.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Projectile.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Camera.cpp">
+      <Filter>.CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>.CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyController.cpp">
+      <Filter>.CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="Entity.cpp">
+      <Filter>.CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="EntityShoot.cpp">
+      <Filter>.CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="EntityWalk.cpp">
+      <Filter>.CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>.CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.cpp">
+      <Filter>.CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>.CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerController.cpp">
+      <Filter>.CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="Projectile.cpp">
+      <Filter>.CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="InterfaceUI.cpp">
+      <Filter>.CPP</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,3 @@
+﻿  Game.cpp
+C:\Users\getre\OneDrive\Documents\FIGHT-System\FIGHT-System\Game.cpp(40,14): warning C4244: 'initialisation' : conversion de 'sf::Int64' en 'float', perte possible de données
+  FIGHT-System.vcxproj -> C:\Users\getre\OneDrive\Documents\FIGHT-System\Debug\FIGHT-System.exe
